@@ -1,6 +1,6 @@
 # Welcome to Dellius Alexander Repo
 
-I am a Computer Science Major with a passion for Dev OPS, Development and Deep Learning Models. Within my repo you will find a host different project.  Everything from Web Service, Kubernetes Setup & Deployments, to Tensorflow examples, and so on.  Below are listed a few of my repos, mostly for educational purposes.
+I am a Computer Science Major with a passion for Dev OPS, Development and Deep Learning Models. Within my repo you will find a host different projects.  Everything from Web Service, Kubernetes Setup & Deployments, to Tensorflow examples, and so on.  Below are listed a few of my repos, mostly for educational purposes.
 
 
 ---
