@@ -9,15 +9,14 @@ I am a Computer Science Major with a passion for Dev OPS, Development and Deep L
 ### [Repo List](https://github.com/dellius-alexander/dellius-alexander):
 
 - [Algorithms](https://github.com/dellius-alexander/Algorithms.git)
-- [Helpers](https://github.com/dellius-alexander/Tutorials.git)
 - [Tensorflow](https://github.com/dellius-alexander/tensorflow), [Tensorflow CNN](https://github.com/dellius-alexander/TensorFlowCNN)
-- [N Queens Problem](https://github.com/dellius-alexander/Queens8-1)
 - [Testing Stragety](https://github.com/dellius-alexander/Testing-Strategy)
 - [Responsive Web Design](https://github.com/dellius-alexander/responsive_web_design)
 - [Tic Tac Toe](https://github.com/dellius-alexander/TicTacToe)
 - [Kubernetes](https://github.com/dellius-alexander/kubernetes)
 - [Jenkins](https://github.com/dellius-alexander/Jenkins)
 - [Scheduling Algorithms](https://github.com/dellius-alexander/Scheduling_Algorithms)
+- [Helpers](https://github.com/dellius-alexander/Tutorials.git)
   <!-- End Repo List -->
   
 --- 
