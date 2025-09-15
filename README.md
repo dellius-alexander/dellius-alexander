@@ -5,13 +5,17 @@
 
 ### Software Developer | QA Engineer | AI & ML Enthusiast
 
-Passionate about building robust software solutions with a focus on AI, machine learning, and distributed systems. With over 6 years of experience in software development and IT quality assurance, I excel in manual testing, automation, full-stack development, and cloud platforms. I thrive in collaborative environments, driving process improvements and delivering high-quality results aligned with user needs.
+Passionate about building robust software solutions with a focus on AI, machine learning, and 
+distributed systems. With over 6 years of experience in software development and IT quality 
+assurance, I excel in manual testing, automation, full-stack development, and cloud platforms. 
+I thrive in collaborative environments, driving process improvements and delivering high-quality 
+results aligned with user needs.
 
 - 📍 Based in Atlanta, GA | Willing to travel
 - 🇺🇸 US Citizen
 - 📧 Email: [dellius.alexander@gmail.com](mailto:dellius.alexander@gmail.com)
-- ☎️ Phone: +1 678-650-9414
-- 🔗 LinkedIn: [Dellius Alexander](https://www.linkedin.com/in/dellius-alexander) (assuming based on search results; update if needed)
+- ☎️ Phone: +1 404-458-7484
+- 🔗 LinkedIn: [Dellius Alexander](https://www.linkedin.com/in/dellius-alexander) 
 - 🌐 Portfolio: [GitHub](https://github.com/dellius-alexander)
 
 ## 🛠️ Skills
@@ -63,22 +67,18 @@ Here are some of my key projects. Check out the linked repositories for code and
 - **[Multiplatform React Application Demo](https://github.com/dellius-alexander/Cordova-React-App.git)**  
   A cross-platform mobile app built with React and Apache Cordova for user account management and data synchronization.  
   *Tech: React, Apache Cordova, JavaScript*  
-  (Repository coming soon or private; contact for details)
 
 - **[Vector Database Domain Search Engine Bot](https://github.com/dellius-alexander/Vector-DB-SearchBot.git)**  
   An AI-powered search engine using vector database technology for high-availability and accurate results on domain-specific unstructured data queries.  
   *Tech: VectorDB (Milvus), Python, ML*  
-  (Repository coming soon or private; contact for details)
 
 - **[Continuous Integration Continuous Delivery (CICD) Pipeline Demo](https://github.com/dellius-alexander/Jenkins.git)**  
   Automated CI/CD pipeline using Jenkins, Docker, and Kubernetes for deploying containerized apps in distributed cloud environments.  
   *Tech: Jenkins, Docker, Kubernetes, GCP*  
-  (Repository coming soon or private; contact for details)
 
 - **[Modular AI (Artificial Intelligence) Driven Search Pipeline](https://github.com/dellius-alexander/Smart-Search.git)**  
   Smart Search: An AI-driven web scraper search engine leveraging multiple API engines for result delivery.  
   *Tech: AI/ML, Python, APIs*  
-  (Repository coming soon or private; contact for details)
 
 ### Other Notable Repositories
 - **[Testing Strategy](https://github.com/dellius-alexander/Testing-Strategy)** - Shell-based testing strategies and pipelines.
