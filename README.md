@@ -47,7 +47,7 @@ CSS, HTML, Unix/Linux Shell, PowerShell, DOS, Prolog, SASS, Dart
 
 ### DevOps & Tools
 - Git, GitLab, Jenkins, Docker, Kubernetes, Wireshark, CSysdig, Selenium, Cypress, 
-QEMU, Hyper-V
+QEMU, Hyper-V, Ansible
 - IDEs: VS Code, Eclipse, NetBeans, JetBrains Suite (PyCharm, IntelliJ, etc.), 
 MS Office, Visio, AutoCAD
 - Package Managers: Chocolatey, Brew, NuGet
